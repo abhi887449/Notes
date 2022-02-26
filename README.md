@@ -1,5 +1,4 @@
 # Notes
-<br>
 Notes are a great way to capture inspiration and organize your thoughts.This website will help in capturing thoughts,making to do items etc.
 This site will help people to make their notes and save it for future use.
 This is the preview of home page
